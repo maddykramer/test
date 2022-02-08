@@ -1,4 +1,4 @@
-const carlist = [
+[
     {
         "brand": "Ford Fiesta",
         "category": "Budget",
