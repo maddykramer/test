@@ -1,0 +1,29 @@
+const carlist = [
+    {
+        "brand": "Ford Fiesta",
+        "category": "Budget",
+        "persons": 4,
+        "suitcases": 1,
+        "comfort": "Low",
+        "priceperday": 100,
+        "image": "budgetcar.jpg"
+    },
+    {
+        "brand": "Volkswagen Golf",
+        "category": "Middle class",
+        "persons": 5,
+        "suitcases": 3,
+        "comfort": "Medium",
+        "priceperday": 160,
+        "image": "standardcar.jpg"
+    },
+    {
+        "brand": "Dacia Logan",
+        "category": "Minivan",
+        "persons": 7,
+        "suitcases": 4,
+        "comfort": "High",
+        "priceperday": 205,
+        "image": "minivancar.jpg"
+    }
+]
